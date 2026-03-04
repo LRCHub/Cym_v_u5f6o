@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "桜キッス (TVサイズ)",
+  "base_artist": "河辺千恵子",
+  "createdAt": "2026-03-04T14:48:50.412122Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜キッス (TVサイズ)",
+      "artist": "河辺千恵子",
+      "has_synced": false,
+      "path": "select/pl_01_桜キッス_(TVサイズ)_河辺千恵子.txt"
+    }
+  ]
+}
